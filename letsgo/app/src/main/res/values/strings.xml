@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LetsGo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Innstillinger</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="user_registration">USER REGISTRATION</string>
+    <string name="already_registered_sign_in_here">Already Registered? Sign in here</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status">Hei, Let\'s Go is the best</string>
+    <string name="login_here">Login</string>
+    <string name="register_here">Register</string>
+    <string name="welcome_to_letsgo_app">Welcome to Letsgo App</string>
+    <string name="user_login">USER LOGIN</string>
+    <string name="already_have_account">ALREADY HAVE ACCOUNT</string>
+    <string name="need_new_account">NEED NEW ACCOUNT</string>
+    <string name="welcome_to_let_s_go">Welcome to Let\'s Go</string>
+
+</resources>
